@@ -90,9 +90,10 @@ feedMapper.parse(feed, function(err, entries) {
 ```js
 [
     {
-        "origin": "https://news.ycombinator.com/",
-        "host": "news.ycombinator.com",
-        "ranking": 24,
+        "_source": "hackernews",
+        "_origin": "https://news.ycombinator.com/",
+        "_host": "news.ycombinator.com",
+        "_ranking": 24,
         "guid": "http://blog.ycombinator.com/last-day-to-apply-to-yc-hacks",
         "title": "Last day to apply to YC Hacks",
         "url": "http://blog.ycombinator.com/last-day-to-apply-to-yc-hacks",
