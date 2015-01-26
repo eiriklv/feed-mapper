@@ -12,7 +12,7 @@
     "async": "0.9.x",
     "cheerio": "0.13.1",
     "colors": "0.6.x",
-    "debug": "0.8.x",
+    "debug": "2.1.x",
     "feedparser": "0.19.x",
     "html-entities": "1.0.10",
     "iconv-lite": "0.2.11",
