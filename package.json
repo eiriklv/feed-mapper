@@ -1,6 +1,6 @@
 {
   "name": "feed-mapper",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "./lib/index",
   "description": "RSS feed parser and mapper",
   "bugs": {
